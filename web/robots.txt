@@ -1,0 +1,6 @@
+User-agent: *
+Crawl-delay: 1
+Host: https://trest24.ru
+Disallow: /admin
+Disallow: /site/rss
+Sitemap: https://trest24.ru/sitemap.xml
